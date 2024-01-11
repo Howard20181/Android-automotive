@@ -48,4 +48,33 @@
         <permission name="android.permission.WRITE_EXTERNAL_STORAGE" />
         <permission name="android.permission.WRITE_SETTINGS" />
     </privapp-permissions>
+    <privapp-permissions package="com.oushang.carlink">
+        <permission name="android.car.permission.CAR_VENDOR_EXTENSION" />
+        <permission name="android.car.permission.CONTROL_CAR_CLIMATE" />
+        <permission name="android.car.permission.CONTROL_CAR_WINDOWS" />
+        <permission name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+        <permission name="android.permission.ACCESS_COARSE_LOCATION" />
+        <permission name="android.permission.ACCESS_FINE_LOCATION" />
+        <permission name="android.permission.ACCESS_INSTANT_APPS" />
+        <permission name="android.permission.ACCESS_NETWORK_STATE" />
+        <permission name="android.permission.ACCESS_WIFI_STATE" />
+        <permission name="android.permission.BLUETOOTH" />
+        <permission name="android.permission.BLUETOOTH_ADMIN" />
+        <permission name="android.permission.BLUETOOTH_PRIVILEGED" />
+        <permission name="android.permission.CHANGE_NETWORK_STATE" />
+        <permission name="android.permission.CHANGE_WIFI_STATE" />
+        <permission name="android.permission.CLEAR_APP_USER_DATA" />
+        <permission name="android.permission.INTERNET" />
+        <permission name="android.permission.LOCAL_MAC_ADDRESS" />
+        <permission name="android.permission.MANAGE_USB" />
+        <permission name="android.permission.NETWORK_SETTINGS" />
+        <permission name="android.permission.NETWORK_STACK" />
+        <permission name="android.permission.OVERRIDE_WIFI_CONFIG" />
+        <permission name="android.permission.READ_EXTERNAL_STORAGE" />
+        <permission name="android.permission.RECORD_AUDIO" />
+        <permission name="android.permission.TETHER_PRIVILEGED" />
+        <permission name="android.permission.WAKE_LOCK" />
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE" />
+        <permission name="android.permission.WRITE_SETTINGS" />
+    </privapp-permissions>
 </permissions>
