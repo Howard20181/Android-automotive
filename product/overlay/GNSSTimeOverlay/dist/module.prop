@@ -1,0 +1,6 @@
+id=gnsstime-sync
+name=GNSS Time Sync
+author=Howard
+description=Enable GNSS time detection
+version=2.0
+versionCode=3

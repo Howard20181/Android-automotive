@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_autoTimeSourcesPriority">
+        <item>gnss</item>
+        <item>network</item>
+        <item>telephony</item>
+    </string-array>
+    <bool name="config_enableGnssTimeUpdateService">true</bool>
+</resources>
