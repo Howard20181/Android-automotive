@@ -19,7 +19,7 @@ Like many other head units, it has permissive SELinux, equivalent to having root
 
 Magisk module <https://github.com/Howard20181/Android-automotive/releases/download/v1.0/systemless-gapps-API33-automotive-tiny.zip>
 
-Should also be compatible with other Android 13 head units.
+It should also be compatible with other Android 13 head units.
 
 ## Other Docs
 
