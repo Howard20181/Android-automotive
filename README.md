@@ -17,4 +17,4 @@ Like many other head units, it has permissive SELinux, equivalent to having root
 
 ## Other Docs
 
-[GNSS Time Sync](product\overlay\GNSSTimeOverlay\README.md)
+[GNSS Time Sync](product/overlay/GNSSTimeOverlay/README.md)
