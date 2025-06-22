@@ -14,3 +14,7 @@ Like many other head units, it has permissive SELinux, which is equivalent to ha
 2. Download and install Magica with Magisk Alpha support added from <https://github.com/Howard20181/Magica/releases/latest>.
 3. Launch Magica and tap the Install button at the bottom.
 4. Reboot and enjoy root privileges.
+
+## Other Docs
+
+[GNSS Time Sync](product\overlay\GNSSTimeOverlay\README.md)
