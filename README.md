@@ -15,6 +15,12 @@ Like many other head units, it has permissive SELinux, equivalent to having root
 3. Launch Magica and tap the Install button at the bottom.
 4. Reboot and enjoy root privileges.
 
+## Install Gapps for dudu OS China version
+
+Magisk module <https://github.com/Howard20181/Android-automotive/releases/download/v1.0/systemless-gapps-API33-automotive-tiny.zip>
+
+Should also be compatible with other Android 13 head units.
+
 ## Other Docs
 
 [GNSS Time Sync](product/overlay/GNSSTimeOverlay/README.md)
